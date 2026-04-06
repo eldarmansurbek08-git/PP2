@@ -58,9 +58,9 @@
 # print(s)
 
 # 8
-txt = input()
-words = txt.split()
-cnt = 0
-if len(words) == 3:
-    cnt += 1
-print(cnt)
+# txt = input()
+# words = txt.split()
+# cnt = 0
+# if len(words) == 3:
+#     cnt += 1
+# print(cnt)
