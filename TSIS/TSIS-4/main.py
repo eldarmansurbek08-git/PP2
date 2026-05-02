@@ -4,7 +4,7 @@ import json
 import time
 from db import DBManager
 
-# Тұрақтылар
+
 WIDTH, HEIGHT = 800, 600
 CELL_SIZE = 20
 WHITE, BLACK, RED, GREEN, BLUE, YELLOW = (255,255,255), (0,0,0), (255,0,0), (0,255,0), (0,0,255), (255,255,0)
